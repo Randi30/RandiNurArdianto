@@ -1,0 +1,39 @@
+body{
+	background-image: url('Wisata.jpg');
+}
+
+.kotak_login{
+	background: grey;
+	color: white;
+	font-family: lato;
+	width: 350px;
+	margin: 80px auto;
+	padding: 30px 20px;
+}
+
+.judul{
+	font-family: sans-serif;
+	text-transform: uppercase;
+	font-weight: 300;
+}
+
+.a{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+.b{
+	box-sizing : border-box;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+.c{
+	text-align: center;
+	color: 
+}
+
